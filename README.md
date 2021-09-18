@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hikmat Farhat
 
+I am a professor of Computer Science at Notre Dame University-Louaize, Lebanon.
+
+#### Research Interests
+
+1. Artificial Intelligence broadly construed
+2. Machine Learning
+3. Formal Methods
+4. Algorithms
+
+🔭 I’m currently working on transfer learning applied to malware detection.
 <!--
 **hikmatfarhat-ndu/hikmatfarhat-ndu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
