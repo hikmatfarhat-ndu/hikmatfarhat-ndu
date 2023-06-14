@@ -1,6 +1,7 @@
 ### Hikmat Farhat
 
-I am a professor of Computer Science at Notre Dame University-Louaize, Lebanon.
+I am a Senior Teaching Fellow in the School of Electronics and Computer Science,
+University of Southampton, UK.
 
 #### Research Interests
 
@@ -9,7 +10,7 @@ I am a professor of Computer Science at Notre Dame University-Louaize, Lebanon.
 3. Formal Methods
 4. Algorithms
 
-🔭 I’m currently working on transfer learning applied to malware detection.
+🔭 I’m currently working on the application of Adversarial Generative Networks.
 <!--
 **hikmatfarhat-ndu/hikmatfarhat-ndu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
