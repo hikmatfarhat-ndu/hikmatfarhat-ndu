@@ -1,6 +1,6 @@
 ### Hikmat Farhat
 
-I am a Senior Teaching Fellow in the School of Electronics and Computer Science,
+I am a Principal Teaching Fellow in the School of Electronics and Computer Science,
 University of Southampton, UK.
 
 #### Research Interests
