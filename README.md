@@ -10,7 +10,7 @@ University of Southampton, UK.
 3. Formal Methods
 4. Algorithms
 
-🔭 I’m currently working on the application of Adversarial Generative Networks.
+🔭 I’m currently working using SLM in education.
 <!--
 **hikmatfarhat-ndu/hikmatfarhat-ndu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
